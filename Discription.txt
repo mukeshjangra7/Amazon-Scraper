@@ -1,0 +1,9 @@
+Scrape Amazon products from the Search Results Page
+The Amazon search result page scraper will scrape the following details from search result page.
+
+Product Name
+Price
+URL
+Rating
+Number of Reviews
+The steps and code for scraping search results is very similar to the product page scraper.
